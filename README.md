@@ -1,2 +1,2 @@
 # Quantum-Multiplier
-Screening task for the Quantum Open Source Foundation mentorship program.
+This project builds a quantum circuit for multiplier using Qiskit's RGQFTMultiplier class and was done as screening task for the Quantum Open Source Foundation mentorship program. This multiplier accepts user inputs in the form of integers, converts them into binary representation, processes them using quantum circuit and gives out result of the multiplication. I concluded by discussing limitations of this particular implementation in terms of type of inputs it can handle and scaling of required number of qubits, gates & execution time.
